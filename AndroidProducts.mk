@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_ef63.mk
+    $(LOCAL_DIR)/cherish_ef63.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_ef63-user \
-    superior_ef63-userdebug \
-    superior_ef63-eng
+    cherish_ef63-user \
+    cherish_ef63-userdebug \
+    cherish_ef63-eng
